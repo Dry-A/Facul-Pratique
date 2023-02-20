@@ -1,0 +1,1 @@
+SELECT * FROM sistema_solar.planetas;
