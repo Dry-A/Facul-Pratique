@@ -13,17 +13,25 @@ opcao = gets.chomp().to_i() #transformando em número
 while (opcao != 3) do
   
   if(opcao == 1)
-  puts "Digite o nome da receita: "
-  nome = gets.chomp()
+    
+    puts "Digite o nome da receita: "
+    nome = gets.chomp()
+    
+    puts "Qual é o tipo da receita?  "
+    tipo = gets.chomp()
 
-    receitas << nome
+    receitas << {nome: nome, tipo: tipo}
+    
   puts
   
   puts "Receita #{nome} cadastrada com sucesso! "
   puts
 
-elsif(opcao ==2)
-    puts "--------- Receitas Cadastradas ----------"
+  elsif(opcao ==2)
+    puts
+    puts
+    puts "-------- Receitas Cadastradas --------"
+    puts
 
   # aqui é o for em ruby
   # for receita in receitas do 
@@ -36,7 +44,9 @@ elsif(opcao ==2)
 #end
  # puts 
 
-    puts receitas
+    receitas.each do |receita|
+     puts "#{receita[:nome]} - #{receita[:tipo]} "
+  end  
     puts
     
   else
@@ -48,7 +58,7 @@ elsif(opcao ==2)
   puts "[3] Sair"
   
   print "Escolha uma opção:  "
-  opcao = gets.chomp().to_i()
+  opcao = gets.to_i()
 end
 
 puts "Obrigada por usar o Cookbook , até logo! "
