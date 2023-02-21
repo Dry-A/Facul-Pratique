@@ -1,6 +1,6 @@
 puts "Bem-vindo ao Cookbook, sua rede social de receitas. "
 
-receitas = []
+receitas = [] #aqui definindo que receitas é um array
 
 puts "[1] Cadastrar Receita"
 puts "[2] Ver todas as Receitas"
@@ -20,7 +20,10 @@ while (opcao != 3) do
     puts "Qual é o tipo da receita?  "
     tipo = gets.chomp()
 
-    receitas << {nome: nome, tipo: tipo}
+    puts "Qual é o custo da receita?  "
+    custo = gets.chomp()
+
+    receitas << {nome: nome, tipo: tipo, custo: custo}
     
   puts
   
@@ -45,7 +48,7 @@ while (opcao != 3) do
  # puts 
 
     receitas.each do |receita|
-     puts "#{receita[:nome]} - #{receita[:tipo]} "
+     puts "#{receita[:nome]} - #{receita[:tipo]} - #{receita[:custo]} "
   end  
     puts
     
