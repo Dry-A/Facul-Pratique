@@ -1,19 +1,18 @@
-puts "Bem-vindo ao Cookbook, sua rede social de receitas. "
+def bem_vindo
+  #def - definindo
+  puts "Bem-vindo ao Cookbook, sua rede social de receitas. "
+  puts
+end
 
-receitas = [] #aqui definindo que receitas é um array
+def menu()
+  puts "[1] Cadastrar Receita"
+  puts "[2] Ver todas as Receitas"
+  puts "[3] Sair"
+  print "Escolha uma opção: "
+  return gets.to_i() #a palavra returns pode ser retirada
+ end
 
-puts "[1] Cadastrar Receita"
-puts "[2] Ver todas as Receitas"
-puts "[3] Sair"
-
-print "Escolha uma opção:  "
-opcao = gets.chomp().to_i() #transformando em número
-
-
-while (opcao != 3) do
-  
-  if(opcao == 1)
-    
+def inserir_receita()
     puts "Digite o nome da receita: "
     nome = gets.chomp()
     
@@ -22,46 +21,45 @@ while (opcao != 3) do
 
     puts "Qual é o custo da receita?  "
     custo = gets.chomp()
+    puts
+    puts "Receita #{nome} cadastrada com sucesso! "
+    puts
+    return {nome: nome, tipo: tipo, custo: custo}
+end
 
-    receitas << {nome: nome, tipo: tipo, custo: custo}
-    
-  puts
-  
-  puts "Receita #{nome} cadastrada com sucesso! "
-  puts
-
-  elsif(opcao ==2)
+def imprimir_receitas(r)
     puts
     puts
     puts "-------- Receitas Cadastradas --------"
     puts
-
-  # aqui é o for em ruby
-  # for receita in receitas do 
-  # puts receita
-  # end
-
-  #estrutura each
- # receitas.each do | receita |
-  #puts receita
-#end
- # puts 
-
-    receitas.each do |receita|
-     puts "#{receita[:nome]} - #{receita[:tipo]} - #{receita[:custo]} "
-  end  
+    r.each do |receita|
+    puts "#{receita[:nome]} - #{receita[:tipo]} - #{receita[:custo]} "
+    end  
     puts
+end
+  
+bem_vindo() # parenteses nao sao obrigatorios
+
+receitas = [] #aqui definindo que receitas é um array
+
+opcao = menu()
+
+while (opcao != 3) do
+  
+  if(opcao == 1)
     
+    receitas << inserir_receita()
+    
+  elsif(opcao ==2)
+    
+   imprimir_receitas(receitas)
+      
   else
     puts "Opção inválida"
   end
 
-  puts "[1] Cadastrar Receita"
-  puts "[2] Ver todas as Receitas"
-  puts "[3] Sair"
+  opcao = menu()
   
-  print "Escolha uma opção:  "
-  opcao = gets.to_i()
 end
 
 puts "Obrigada por usar o Cookbook , até logo! "
