@@ -22,7 +22,7 @@ while (opcao != 3) do
   puts "Receita #{nome} cadastrada com sucesso! "
   puts
 
-elseif(opcao ==2)
+elsif(opcao ==2)
     puts "--------- Receitas Cadastradas ----------"
 
   # aqui é o for em ruby
