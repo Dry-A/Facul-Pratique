@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@100;200;300;400;600&display=swap');
+
+
+p{
+    font-family: 'Lora', sans-serif; 
+    margin: 5px 20px 20px 20px;
+    text-align: justify;
+}
+
+h1{
+   
+    font-family: 'Bitter', sans-serif;
+    color:#ee9a2c;
+    text-align: center;
+    text-decoration:underline;
+    margin-top: 55px;
+}
+
+h3, ul{
+    
+    margin-left: 30px;
+    font-family: 'Bitter', sans-serif;
+    color:#6495ed; 
+}
+
+.img-1{
+    width: 70%;
+    float: right;
+    margin: 20px;
+    
+}
+
+.img-2{
+    width: 40%;
+    float: left;
+    margin: 10px 20px;
+}
+footer{
+    font-family: 'Aboreto', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+.caixa {
+    position: relative;
+    width: 640px;
+    margin: 0 auto;
+    font-family: 'Aboreto', sans-serif;
+}
+
+
+nav {
+    top: 50px;
+    right: 0;
+    bottom: 40px;
+    padding: 20px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 50px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #0c0c0c;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c71945;
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+
+        padding: 40px 0;
+}
+
+
+
+
+
+/*contato*/
+
+
+
+

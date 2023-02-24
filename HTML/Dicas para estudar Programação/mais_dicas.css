@@ -1,0 +1,22 @@
+body{
+    
+    background-image: url("./assets/142109760_SLEEPING_CAT_400px.gif");
+        background-repeat: no-repeat;
+            height: 100%;
+            /* background-position: bottom; */
+            background-position: top;
+           
+        
+           
+        }
+    
+ .lista-2 {
+            color: #1d1c1c;
+           margin-top: 55px;           
+            width: 30%;
+            vertical-align: top;
+            margin: 0 1.5%;
+            padding: 30px 20px;           
+  }
+
+
