@@ -58,7 +58,7 @@ public class LinkedListCarros {
         System.out.println(cars);
 
         if (cars.isEmpty()){
-            System.out.println("LinkedList vazia");
+            System.out.println("LinkedList vazia.");
         }
 
 
