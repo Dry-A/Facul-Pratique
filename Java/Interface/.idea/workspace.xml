@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98f1c22e-f323-4dbb-ab92-ae7c6b32b0e0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Collections/ArrayListCarros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Collections/LinkedListCarros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/EntradaDados/EntradaDados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/InterfacePrograma/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/InterfacePrograma/Gado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/InterfacePrograma/InterfaceUso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/OrientacaoObjetos/Fisica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/OrientacaoObjetos/Juridica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/OrientacaoObjetos/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/OrientacaoObjetos/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Polimorfismo/Elefante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Polimorfismo/Mamifero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Polimorfismo/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Polimorfismo/Rato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Programa/Gado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Programa/InterfaceAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interface/Wrapper/Demonstracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/ArrayListCarros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/LinkedListCarros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntradaDados/EntradaDados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacePrograma/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacePrograma/Gado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfacePrograma/InterfaceUso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetos/Fisica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetos/Juridica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetos/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetos/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismo/Elefante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismo/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismo/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismo/Rato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa/Gado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa/InterfaceAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wrapper/Demonstracao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCein9JH0GLX1hV0rJeunD57dL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Temp/Facul-Pratique/Java/Exercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="ArrayListCarros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayListCarros" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demonstracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrapper.Demonstracao" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceUso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfacePrograma.InterfaceUso" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfacePrograma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListCarros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.LinkedListCarros" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Embarque.Principal" />
+      <module name="Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.Embarque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Demonstracao" />
+        <item itemvalue="Application.LinkedListCarros" />
+        <item itemvalue="Application.ArrayListCarros" />
+        <item itemvalue="Application.InterfaceUso" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98f1c22e-f323-4dbb-ab92-ae7c6b32b0e0" name="Changes" comment="" />
+      <created>1677276121464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677276121464</updated>
+      <workItem from="1677276123105" duration="10616000" />
+      <workItem from="1677325985242" duration="257000" />
+      <workItem from="1677326286860" duration="3410000" />
+      <workItem from="1677357651014" duration="2949000" />
+      <workItem from="1677457548890" duration="587000" />
+      <workItem from="1677460006838" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OrientacaoObjetos/Pessoa.java</url>
+          <line>13</line>
+          <properties class="OrientacaoObjetos.Pessoa">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Collections/ArrayListCarros.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Collections/ArrayListCarros.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
