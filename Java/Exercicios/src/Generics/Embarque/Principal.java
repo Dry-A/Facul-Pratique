@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 
 /*
- * Informar a quantidade de aeronaves no p�tio, o nr dos v�os por ordem de chegada. 
- * A ordem de decolagem � FIFO, o primeiro que entra � o primeiro que sai. 
- * Mostrar qual o primeiro v�o � decolar
+ * Informar a quantidade de aeronaves no p�tio, o nr dos voos por ordem de chegada.
+ * A ordem de decolagem é FIFO, o primeiro que entra é o primeiro que sai.
+ * Mostrar qual o primeiro voo a decolar
  */
 public class Principal {
 
